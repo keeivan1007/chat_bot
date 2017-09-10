@@ -13,6 +13,8 @@
 
 2.訓練資料愈多聊天效果愈好，但載入與訓練時間愈慢
 
+3.如果有興趣串 Line or Facebook 機器人，可參考 ipynb檔串slackbot服務的程式碼
+
 operating_code.ipynb ： 操作code
 
 create_chatbot.py ： 使用套件
